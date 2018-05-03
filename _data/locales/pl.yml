@@ -12,6 +12,8 @@ sections:
   libraries: Biblioteki
   appendix: Appendix
   contributors: Contributors
+  translation_report: Translation Report
+
 version_messages:
   outdated: "Od ostatniej aktualizacji wprowadzono wiele zmian i tłumaczenie może być nieaktualne."
   major: "Od ostatniej aktualizacji wprowadzono kilka dużych zmian."

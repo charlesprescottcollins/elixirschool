@@ -12,6 +12,8 @@ sections:
   libraries: ライブラリー
   appendix: Appendix
   contributors: Contributors
+  translation_report: Translation Report
+
 version_messages:
   outdated: "和訳が古くなっている可能性があります。"
   major: "いくつかの重要な変更が翻訳元の文書に適用されています。"

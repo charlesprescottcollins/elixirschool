@@ -12,6 +12,8 @@ sections:
   libraries: Библиотеки
   appendix: Appendix
   contributors: Contributors
+  translation_report: Translation Report
+
 version_messages:
   outdated: "Некоторое содержимое этого урока может оказаться устаревшим."
   major: "С момента последнего обновления перевода в оригинальный урок были внесены серьёзные изменения."

@@ -12,6 +12,8 @@ sections:
   libraries: Libraries
   appendix: Appendix
   contributors: Contributors
+  translation_report: Translation Report
+
 version_messages:
   outdated: "Teile dieser Übersetzung könnten veraltet sein."
   major: "Einige größere Änderungen wurden der originalen Lektion seit der letzten Aktualisierung hinzugefügt."

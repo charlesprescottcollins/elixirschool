@@ -12,6 +12,8 @@ sections:
   libraries: Libraries
   appendix: Appendix
   contributors: Contributors
+  translation_report: Translation Report
+
 version_messages:
   outdated: "เนื้อหาบางส่วนของบทแปลฉบับนี้อาจล้าสมัย"
   major: "ต้นฉบับมีการเปลี่ยนแปลงสำคัญเกิดขึ้นเป็นจำนวนมากนับตั้งแต่การปรับปรุงครั้งล่าสุด"

@@ -10,7 +10,7 @@ sections:
   advanced: Avansert
   specifics: Detaljer
   libraries: Libraries
-  appendix: Appendix
+  blog: Blog
   contributors: Contributors
 version_messages:
   outdated: "Some contents of this translation may be outdated."

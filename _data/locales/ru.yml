@@ -10,7 +10,7 @@ sections:
   advanced: Продвинутый
   specifics: Специфика
   libraries: Библиотеки
-  appendix: Appendix
+  blog: Blog
   contributors: Contributors
 version_messages:
   outdated: "Некоторое содержимое этого урока может оказаться устаревшим."
